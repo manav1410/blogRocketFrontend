@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blogRocketFrontend/static/css/main.53722d1e.chunk.css",
+    "main.js": "/blogRocketFrontend/static/js/main.a0977a88.chunk.js",
+    "main.js.map": "/blogRocketFrontend/static/js/main.a0977a88.chunk.js.map",
+    "runtime-main.js": "/blogRocketFrontend/static/js/runtime-main.b7ad4285.js",
+    "runtime-main.js.map": "/blogRocketFrontend/static/js/runtime-main.b7ad4285.js.map",
+    "static/js/2.48ad9efa.chunk.js": "/blogRocketFrontend/static/js/2.48ad9efa.chunk.js",
+    "static/js/2.48ad9efa.chunk.js.map": "/blogRocketFrontend/static/js/2.48ad9efa.chunk.js.map",
+    "static/js/3.c08bdef8.chunk.js": "/blogRocketFrontend/static/js/3.c08bdef8.chunk.js",
+    "static/js/3.c08bdef8.chunk.js.map": "/blogRocketFrontend/static/js/3.c08bdef8.chunk.js.map",
+    "index.html": "/blogRocketFrontend/index.html",
+    "static/css/main.53722d1e.chunk.css.map": "/blogRocketFrontend/static/css/main.53722d1e.chunk.css.map",
+    "static/js/2.48ad9efa.chunk.js.LICENSE.txt": "/blogRocketFrontend/static/js/2.48ad9efa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/blogRocketFrontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7ad4285.js",
+    "static/js/2.48ad9efa.chunk.js",
+    "static/css/main.53722d1e.chunk.css",
+    "static/js/main.a0977a88.chunk.js"
+  ]
+}
